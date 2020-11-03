@@ -1,5 +1,5 @@
 [package]
-name = "dyntrait-de-wrapper"
+name = "dyntrait_de_wrapper"
 version = "0.1.0"
 authors = ["n-ari <fukunari.r.aa@m.titech.ac.jp>"]
 edition = "2018"
